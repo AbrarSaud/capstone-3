@@ -1,4 +1,40 @@
-## API Endpoints
+# Real Estate Auction Platform 🏘️💼
+
+## 📌 Project Overview
+
+This is a **Real Estate Intermediary Platform**.  
+It allows **property owners** to list their properties and lets **customers** join **online auctions** by location.  
+The platform makes buying and selling properties **faster**, **easier**, and **more organized**.
+
+---
+
+## 🚀 Main Features
+
+-  **Property Management** – Add, update, and delete property listings  
+-  **Auction Management** – Create and control auctions  
+-  **Real-Time Bidding** – Customers can place bids live during auctions  
+-  **Auto-Expiry** – Auctions end automatically when the time is finished  
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Tool / Technology         | Purpose                          |
+|---------------------------|----------------------------------|
+| `Spring Boot`             | Backend development framework    |
+| `Spring Data JPA`         | Work with the database           |
+| `Spring Web`              | Build RESTful APIs               |
+| `Spring Validation`       | Validate user input              |
+| `Spring Mail`             | Send email notifications         |
+| `MySQL`                   | Store and manage data            |
+| `Lombok`                  | Reduce boilerplate code          |
+| `OpenPDF`                 | Generate PDF reports             |
+| `Postman`                 | Test the API endpoints           |
+| `Maven`                   | Dependency and build manager     |
+
+---
+
+## 📂 API Endpoints
 
 ### Admin Endpoints
 
